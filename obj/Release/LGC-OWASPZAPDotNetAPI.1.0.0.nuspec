@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LGC-OWASPZAPDotNetAPI</id>
+    <version>1.0.0</version>
+    <authors>Mark Dunne</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/DrMarkDunne/zap-api-dotnet</projectUrl>
+    <description>OWASPZAPDotNetAPI is a .Net 5.0 updated version of Class Library forked from of zaproxy/zap-api-dotnet (https://github.com/zaproxy/zap-api-dotnet)</description>
+    <repository url="https://github.com/DrMarkDunne/zap-api-dotnet" />
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\mdunne\source\repos\GitHub\zap-api-dotnet\bin\Release\net5.0\OWASPZAPDotNetAPI.dll" target="lib\net5.0\OWASPZAPDotNetAPI.dll" />
+  </files>
+</package>
