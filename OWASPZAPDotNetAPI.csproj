@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>LGC-OWASPZAPDotNetAPI</PackageId>
+    <Authors>Mark Dunne</Authors>
+    <Company>LetsGetChecked</Company>
+    <Product>OWASPZAPDotNetAPI</Product>
+    <Description>OWASPZAPDotNetAPI is a .Net 5.0 updated version of Class Library forked from of zaproxy/zap-api-dotnet (https://github.com/zaproxy/zap-api-dotnet)</Description>
+    <PackageProjectUrl>https://github.com/DrMarkDunne/zap-api-dotnet</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/DrMarkDunne/zap-api-dotnet</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>

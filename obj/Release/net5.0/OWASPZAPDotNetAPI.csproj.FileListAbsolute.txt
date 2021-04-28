@@ -1,0 +1,12 @@
+C:\Users\mdunne\source\repos\GitHub\zap-api-dotnet\bin\Release\net5.0\OWASPZAPDotNetAPI.deps.json
+C:\Users\mdunne\source\repos\GitHub\zap-api-dotnet\bin\Release\net5.0\OWASPZAPDotNetAPI.dll
+C:\Users\mdunne\source\repos\GitHub\zap-api-dotnet\bin\Release\net5.0\ref\OWASPZAPDotNetAPI.dll
+C:\Users\mdunne\source\repos\GitHub\zap-api-dotnet\bin\Release\net5.0\OWASPZAPDotNetAPI.pdb
+C:\Users\mdunne\source\repos\GitHub\zap-api-dotnet\obj\Release\net5.0\OWASPZAPDotNetAPI.csprojAssemblyReference.cache
+C:\Users\mdunne\source\repos\GitHub\zap-api-dotnet\obj\Release\net5.0\OWASPZAPDotNetAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdunne\source\repos\GitHub\zap-api-dotnet\obj\Release\net5.0\OWASPZAPDotNetAPI.AssemblyInfoInputs.cache
+C:\Users\mdunne\source\repos\GitHub\zap-api-dotnet\obj\Release\net5.0\OWASPZAPDotNetAPI.AssemblyInfo.cs
+C:\Users\mdunne\source\repos\GitHub\zap-api-dotnet\obj\Release\net5.0\OWASPZAPDotNetAPI.csproj.CoreCompileInputs.cache
+C:\Users\mdunne\source\repos\GitHub\zap-api-dotnet\obj\Release\net5.0\OWASPZAPDotNetAPI.dll
+C:\Users\mdunne\source\repos\GitHub\zap-api-dotnet\obj\Release\net5.0\ref\OWASPZAPDotNetAPI.dll
+C:\Users\mdunne\source\repos\GitHub\zap-api-dotnet\obj\Release\net5.0\OWASPZAPDotNetAPI.pdb
