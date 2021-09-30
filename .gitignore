@@ -1,5 +1,10 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+obj
+bin
+.vs
+TestResults
+Screenshots
+/SpecFlow
 
-/.vs
+*.feature.cs
+resharper-report.xml
+TestResult.xml
